@@ -1,0 +1,23 @@
+{
+    "name": "feel-good-ly",
+    "displayName": "Feel Good LY",
+    "description": "feel good 完全",
+    "version": "1.0.0",
+    "publisher": "lyfun",
+    "repository":"https://github.com/lybest/feel-good",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feel Good LY",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Feel Good LY-color-theme.json"
+            }
+        ]
+    }
+}
