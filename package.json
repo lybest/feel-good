@@ -1,10 +1,14 @@
 {
     "name": "feel-good-ly",
     "displayName": "Feel Good LY",
-    "description": "feel good 完全",
-    "version": "1.0.0",
+    "description": "feel good full support theme .beauty your vs code",
+    "version": "1.0.3",
+    "icon": "images/icon.png",
     "publisher": "lyfun",
-    "repository":"https://github.com/lybest/feel-good",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lybest/feel-good"
+    },
     "engines": {
         "vscode": "^1.26.0"
     },
@@ -12,12 +16,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Feel Good LY",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Feel Good LY-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Feel Good LY",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Feel Good LY-color-theme.json"
+        }]
     }
 }
