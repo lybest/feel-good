@@ -15,6 +15,15 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "icons",
+        "theme",
+        "material",
+        "icon-theme",
+        "customization",
+        "flat",
+        "simple"
+    ],
     "contributes": {
         "themes": [{
             "label": "Feel Good LY",
