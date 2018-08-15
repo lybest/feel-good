@@ -217,7 +217,7 @@
 		"peekViewEditorGutter.background": "#2c3e50",
 		"peekViewResult.selectionBackground": "#2378be",
 		"peekViewEditor.matchHighlightBackground": "#2378be",
-		"editor.selectionBackground": "#63c6f7",
+		"editor.selectionBackground": "#197aafb5",
 		"editor.findMatchBackground": "#63c6f7",
 		"editor.findMatchHighlightBackground": "#197aafb5",
 		"list.focusBackground": "#63c6f7",
