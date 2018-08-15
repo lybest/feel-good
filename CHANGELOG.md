@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 - Initial release
 
+## [1.0.6] - 2018-08-15
+### Modified
+- 修改侧边栏配色,和编辑栏区分
 
 ## [1.0.5] - 2018-08-15
 ### Added
