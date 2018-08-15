@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 - Initial release
 
+
+## [1.0.5] - 2018-08-15
+### Added
+- 修改状态栏等配色
+
 ## [1.0.4] - 2018-08-14
 ### Added
 - 修改编辑器标签的背景色

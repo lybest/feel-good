@@ -204,6 +204,15 @@
 		"editorSuggestWidget.background": "#314b66",
 		"editorGroupHeader.tabsBackground": "#2c3e50",
 		"editorGroupHeader.noTabsBackground": "#2c3e50",
+		"sideBarSectionHeader.background": "#2c3e50",
+		"statusBar.background": "#3e77b0",
+		"statusBarItem.activeBackground": "#478cdb",
+		"statusBarItem.hoverBackground": "#478cdb",
+		"statusBarItem.prominentBackground": "#1258b9",
+		"editorGroupHeader.tabsBorder": "#2b7ccc",
+		"tab.inactiveForeground": "#c3c0c0",
+		"tab.activeForeground": "#ffffff",
+		"statusBar.noFolderBackground":"#388fe6"
 	},
 	"name": "Feel Good LY"
 }
