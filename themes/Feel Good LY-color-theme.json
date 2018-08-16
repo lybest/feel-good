@@ -204,7 +204,6 @@
 		"statusBarItem.activeBackground": "#478cdb",
 		"statusBarItem.hoverBackground": "#478cdb",
 		"statusBarItem.prominentBackground": "#1258b9",
-		"editorGroupHeader.tabsBorder": "#2b7ccc",
 		"tab.inactiveForeground": "#c3c0c0",
 		"tab.activeForeground": "#ffffff",
 		"statusBar.noFolderBackground": "#388fe6",
@@ -217,7 +216,6 @@
 		"peekViewEditor.matchHighlightBackground": "#2378be",
 		"editor.findMatchBackground": "#63c6f7",
 		"editor.findMatchHighlightBackground": "#197aafb5",
-		"editor.lineHighlightBackground": "#197aafb5",
 		"list.focusBackground": "#2dbfca5a",
        "list.hoverBackground": "#63c6f79f",
        "list.activeSelectionForeground": "#ffffff",
@@ -226,7 +224,15 @@
        "list.inactiveSelectionForeground": "#ffffff",
        "dropdown.foreground": "#ffffff",
        "editor.selectionBackground": "#197aaf",
-       "editor.selectionHighlightBackground":"#09d1c04d"
+	   "editor.selectionHighlightBackground":"#09d1c04d",
+	   "tab.border": "#2378be",
+	   "tab.activeBorderTop": "#2378be",
+	   "editorGroup.border": "#2378be",
+	   "editorGroupHeader.tabsBorder": "#2378be",
+	   "editorBracketMatch.background": "#16ecc9",
+	   "editorLineNumber.activeForeground": "#2378be",
+	   "editor.lineHighlightBackground": "#2378be71"
+	   
 	},
 	"name": "Feel Good LY"
 }
