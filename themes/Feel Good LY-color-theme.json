@@ -218,7 +218,7 @@
 		"editor.findMatchBackground": "#63c6f7",
 		"editor.findMatchHighlightBackground": "#197aafb5",
 		"editor.lineHighlightBackground": "#197aafb5",
-		"list.focusBackground": "#2dbfcaa0",
+		"list.focusBackground": "#2dbfca5a",
        "list.hoverBackground": "#63c6f79f",
        "list.activeSelectionForeground": "#ffffff",
        "list.focusForeground": "#ffffff",
