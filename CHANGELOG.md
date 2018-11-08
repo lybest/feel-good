@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 - Initial release
 
+## [1.1.0] - 2018-08-15
+### Modified
+- 修改注释配色,看起来更加清晰
+
 ## [1.0.9] - 2018-08-15
 ### Modified
 - 修改了一些配色,看起来更加清晰
